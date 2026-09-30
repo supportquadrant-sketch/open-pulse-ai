@@ -1,0 +1,6 @@
+{
+  "name": "OpenPulse AI",
+  "description": "Open-source AI chatbot client with offline-first Room database, rich analytics charts, and custom system personas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
